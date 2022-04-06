@@ -1,2 +1,2 @@
-100-empty_casks
+#!/bin/bash
 echo 'find . -empty -printf "%f\n"' >> 100-empty_casks
